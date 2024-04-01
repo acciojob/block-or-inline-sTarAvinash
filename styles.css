@@ -1,2 +1,6 @@
 
 /* Your CSS Code here. */
+p {
+	padding: 0;
+	margin: 0;
+}
